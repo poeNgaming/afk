@@ -1,0 +1,9 @@
+{
+	"ip":"94.130.53.134",
+	"port": 38089,
+	"name": "POE_gaming",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
+	"login-cmd":"/login (type_ur_pass_here)"
+}
